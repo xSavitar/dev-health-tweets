@@ -23,3 +23,8 @@ Simple repository with Derick's semi-viral or viral tweets related to Developer 
   https://twitter.com/xsavitar/status/1363782677141274624?s=21
 
 ![Parent tweet thread image](images/eye-health.png "Eye health for Developers")
+
+* **Benefits of good posture**:
+  https://twitter.com/xsavitar/status/1372552961545605121?s=21
+
+![Parent tweet thread image](images/good-posture.png "7 benefits of good posture")
