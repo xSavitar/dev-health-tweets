@@ -28,6 +28,12 @@ Simple repository with Derick's semi-viral or viral tweets related to Developer 
 ![Parent tweet thread image](images/eye-health.png "Eye health for Developers")
 <hr>
 
+* **Morning Yoga poses to start your day**:
+  https://twitter.com/xSavitar/status/1396685005703757827
+
+![Tweet image](images/yoga-poses.png "Morning Yoga poses to start your day")
+<hr>
+
 * **Benefits of good posture**:
   https://twitter.com/xsavitar/status/1372552961545605121?s=21
 
