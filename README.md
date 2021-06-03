@@ -39,3 +39,15 @@ Simple repository with Derick's semi-viral or viral tweets related to Developer 
 
 ![Parent tweet thread image](images/good-posture.png "7 benefits of good posture")
 <hr>
+
+* **Taking health advice seriously**:
+  https://twitter.com/xSavitar/status/1398981703566336000?s=20
+
+![Parent tweet image](images/take-health-seriously.png "Take health seriously")
+<hr>
+
+* **Developer health guide ebook**:
+  https://twitter.com/xSavitar/status/1398762393635852291?s=20
+
+![Parent tweet image](images/ad-developer-health-guide-ebook.png "Developer health guide eBook")
+<hr>
